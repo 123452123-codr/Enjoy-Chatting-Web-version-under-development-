@@ -1,3 +1,1 @@
-function send()
-{
-}
+var = document.getElementById("
