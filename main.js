@@ -1,6 +1,6 @@
 var messages = document.getElementById('message');
 var text = document.getElementById('text');
-var send = document.getElementById('send');
+var button = document.getElementById('send');
 
 button.addEventListener("click", function(){
   var newMessage = document.createElement("li");
